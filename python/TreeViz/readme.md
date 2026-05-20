@@ -1,4 +1,4 @@
-# Code for Figures in "[Multilevel branching lung organoids recapitulate epithelium lineage specification]"  
+# Code for figures in "Multilevel branching lung organoids recapitulate epithelium lineage specification"  
 
 The mouse airway data were downloaded from the National Toxicology Program of U.S Department of Health and Human Services (https://cebs-ext.niehs.nih.gov/cahs/report/lapd/web-download-links).  
 
@@ -13,7 +13,7 @@ Nexworkx = 3.4.2
 Matplotlib = 3.1.0  
 Umap-learn = 0.5.7  
 
-If you want to use the code of your own data, you need to save the data into hdf5 file and organize the tree structure as following:  
+If you want to use the code for your own data, you need to save the data into hdf5 file and organize the tree structure as following:  
 
 ```
 --info
